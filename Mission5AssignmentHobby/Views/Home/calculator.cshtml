@@ -1,3 +1,7 @@
+@{
+    ViewData["Title"] = "Skiing";
+}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,19 +22,24 @@
     <input type="number" id="hours" name="hours" min="1" step="1" placeholder="Enter number of hours" required/>
 
     <br/><br/>
+    <!--Display my Price for lessons--> 
     <fieldset>
         <legend>Private Lessons</legend>
         <p>Rate: $100 per hour</p>
     </fieldset>
     
+    <!-- Calculator Button --> 
     <button type="button" id="calculateButton" onclick="CalculateTotal()">Calculate Total</button>
     <br/><br/>
    
 </form>
 
+<!-- Return Results-->
 <fieldset>
     <div style="font-size: 20px;" id="result"></div>
     <br/>
+    
+    <!-- Return to home Button-->
     <button type="button" onclick="window.location.href = '@Url.Action("Index", "Home")';">Back to Home</button>
 </fieldset>
 

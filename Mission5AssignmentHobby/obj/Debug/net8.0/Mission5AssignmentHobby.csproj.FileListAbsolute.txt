@@ -28,3 +28,4 @@
 /Users/tatematley/RiderProjects/Mission5AssignmentHobby/Mission5AssignmentHobby/obj/Debug/net8.0/Mission5AssignmentHobby.pdb
 /Users/tatematley/RiderProjects/Mission5AssignmentHobby/Mission5AssignmentHobby/obj/Debug/net8.0/Mission5AssignmentHobby.genruntimeconfig.cache
 /Users/tatematley/RiderProjects/Mission5AssignmentHobby/Mission5AssignmentHobby/obj/Debug/net8.0/ref/Mission5AssignmentHobby.dll
+/Users/tatematley/RiderProjects/Mission5AssignmentHobby/Mission5AssignmentHobby/obj/Debug/net8.0/Mission5AssignmentHobby.sourcelink.json
